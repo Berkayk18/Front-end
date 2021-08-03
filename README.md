@@ -1,4 +1,4 @@
-# Front-end Project 3
+# HTML code - Project 3
 <body>
     
 <!-- start -->
